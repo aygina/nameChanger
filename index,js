@@ -1,0 +1,1 @@
+alert( "We will, we will".replace(/we/i, "I") );
